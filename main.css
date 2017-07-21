@@ -1,0 +1,48 @@
+body {
+	background-color: almond;
+}
+
+#motivation {
+	background-color: red;
+	font: 8px/30px Tahoma;
+	color: blue;
+	padding:2pt;
+	border:10px double blue;
+	border-radius: 5%; 
+}
+
+#procrastination {
+	background-color: orange;
+	font: 10px/1em Arial;
+	color: green;
+	padding:10% 2%;
+	border:4px solid green;
+	border-radius: 10%; 
+}
+
+#creativity {
+	background-color: yellow;
+	font: 12px/1.5em Verdana;
+	color: black;
+	padding:23%;
+	border:6px dashed black;
+	border-radius: 15%; 
+}
+
+#productivity {
+	background-color: green;
+	font: 14px/3em Impact;
+	color: orange;
+	padding:2.3em;
+	border:8px dotted orange;
+	border-radius: 20%; 
+}
+
+#life_lessons {
+	background-color: blue;
+	font: 25px/1.25em Palatino Linotype;
+	color: red;
+	padding:13%;
+	border:10px ridge red;
+	border-radius: 25%; 
+}
